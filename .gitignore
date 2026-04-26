@@ -6,3 +6,5 @@
 *.dSYM/
 .DS_Store
 .cache/
+.built
+.failed
