@@ -1,0 +1,8 @@
+/lattice
+/test_runner
+*.o
+*.a
+*.so
+*.dSYM/
+.DS_Store
+.cache/
